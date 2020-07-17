@@ -1,0 +1,1 @@
+﻿Переделанный pokedex под TypeScript
